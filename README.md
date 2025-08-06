@@ -36,7 +36,7 @@ pip install smtplib hashlib
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/Akshay-Sutariya/File-Integrity-Monitor.git
+git clone https://github.com/Akshay-Sutariya/AutoSec-Toolkit.git
 cd File-Integrity-Monitor
 ```
 
@@ -133,10 +133,6 @@ Example:
 **Akshay Sutariya**  
 🔗 [GitHub: Akshay-Sutariya](https://github.com/Akshay-Sutariya)  
 🎓 MSc Cybersecurity Student  
-📬 Connect on [LinkedIn](https://linkedin.com)
+📬 Connect on [LinkedIn](https://www.linkedin.com/in/akshay-sutariya2404/)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
